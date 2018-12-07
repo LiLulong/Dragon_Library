@@ -1,0 +1,70 @@
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\电子钱包.exe
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\电子钱包.pdb
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\Bll.dll
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\Dal.dll
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\Bll.pdb
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\Dal.pdb
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\obj\x86\Debug\电子钱包.Form1.resources
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\obj\x86\Debug\电子钱包.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\obj\x86\Debug\电子钱包.exe
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\obj\x86\Debug\电子钱包.pdb
+E:\物联网识别技术\电子钱包\电子钱包\obj\x86\Debug\电子钱包.exe
+E:\物联网识别技术\电子钱包\电子钱包\obj\x86\Debug\电子钱包.pdb
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\obj\x86\Debug\电子钱包.exe
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\obj\x86\Debug\电子钱包.pdb
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\电子钱包.exe
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\电子钱包.pdb
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\Bll.dll
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\Dal.dll
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\Bll.pdb
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\Dal.pdb
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\obj\x86\Debug\电子钱包.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\obj\x86\Debug\电子钱包.Form1.resources
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\obj\x86\Debug\电子钱包.Properties.Resources.resources
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\obj\x86\Debug\电子钱包.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\电子钱包.exe.config
+C:\Users\Administrator\Desktop\物联网识别技术初级\电子钱包\电子钱包\bin\Debug\EPCSDK.dll
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\电子钱包.exe.config
+F:\物联网识别技术\电子钱包\电子钱包\obj\x86\Debug\电子钱包.exe
+F:\物联网识别技术\电子钱包\电子钱包\obj\x86\Debug\电子钱包.pdb
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\EPCSDK.dll
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\电子钱包.exe
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\电子钱包.pdb
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\Bll.dll
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\Dal.dll
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\Model.dll
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\Bll.pdb
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\Dal.pdb
+F:\物联网识别技术\电子钱包\电子钱包\bin\Debug\Model.pdb
+F:\物联网识别技术\电子钱包\电子钱包\obj\x86\Debug\电子钱包.csprojResolveAssemblyReference.cache
+F:\物联网识别技术\电子钱包\电子钱包\obj\x86\Debug\电子钱包.Form1.resources
+F:\物联网识别技术\电子钱包\电子钱包\obj\x86\Debug\电子钱包.Properties.Resources.resources
+F:\物联网识别技术\电子钱包\电子钱包\obj\x86\Debug\电子钱包.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\电子钱包.exe.config
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\bin\Debug\EPCSDK.dll
+C:\Documents and Settings\Administrator\桌面\电子钱包\电子钱包\obj\x86\Debug\GenerateResource.write.183.tlog
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\EPCSDK.dll
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\电子钱包.exe.config
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\电子钱包.exe
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\电子钱包.pdb
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\Bll.dll
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\Dal.dll
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\Model.dll
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\Bll.pdb
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\Dal.pdb
+C:\Users\Long\Desktop\电子钱包\电子钱包\bin\Debug\Model.pdb
+C:\Users\Long\Desktop\电子钱包\电子钱包\obj\x86\Debug\电子钱包.csprojAssemblyReference.cache
+C:\Users\Long\Desktop\电子钱包\电子钱包\obj\x86\Debug\电子钱包.Form1.resources
+C:\Users\Long\Desktop\电子钱包\电子钱包\obj\x86\Debug\电子钱包.Properties.Resources.resources
+C:\Users\Long\Desktop\电子钱包\电子钱包\obj\x86\Debug\电子钱包.csproj.GenerateResource.cache
+C:\Users\Long\Desktop\电子钱包\电子钱包\obj\x86\Debug\电子钱包.csproj.CoreCompileInputs.cache
+C:\Users\Long\Desktop\电子钱包\电子钱包\obj\x86\Debug\电子钱包.csproj.CopyComplete
+C:\Users\Long\Desktop\电子钱包\电子钱包\obj\x86\Debug\电子钱包.exe
+C:\Users\Long\Desktop\电子钱包\电子钱包\obj\x86\Debug\电子钱包.pdb
